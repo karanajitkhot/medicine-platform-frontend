@@ -1,0 +1,5 @@
+/* App layout specific styles */
+.app-viewport {
+  width: 100%;
+  min-height: 100vh;
+}
